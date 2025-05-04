@@ -1,0 +1,6 @@
+-fastfwd 100000000
+-max:inst 100000000
+-cache:dl1             dl1:256:32:4:l
+-cache:il1             il1:512:32:2:l 
+-cache:dl2             ul2:1024:64:8:l
+-cache:il2                      dl2
