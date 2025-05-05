@@ -1,0 +1,8 @@
+-cache:il1             il1:512:32:1:l 
+-cache:il1             il1:256:32:2:l 
+-cache:il1             il1:128:32:4:l 
+-cache:il1             il1:64:32:8:l 
+-cache:il1             il1:32:32:16:l 
+-cache:il1             il1:16:32:32:l 
+-cache:il1             il1:8:32:64:l 
+-cache:il1             il1:1:32:512:l 

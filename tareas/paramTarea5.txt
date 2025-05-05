@@ -1,0 +1,8 @@
+-cache:dl1             dl1:256:32:1:l
+-cache:dl1             dl1:128:32:2:l
+-cache:dl1             dl1:64:32:4:l
+-cache:dl1             dl1:32:32:8:l
+-cache:dl1             dl1:16:32:16:l
+-cache:dl1             dl1:8:32:32:l
+-cache:dl1             dl1:4:32:64:l
+-cache:dl1             dl1:1:32:256:l

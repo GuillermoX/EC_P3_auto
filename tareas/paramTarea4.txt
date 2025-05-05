@@ -1,0 +1,5 @@
+-cache:dl2             ul2:64:64:8:l
+-cache:dl2             ul2:128:64:8:l
+-cache:dl2             ul2:256:64:8:l
+-cache:dl2             ul2:512:64:8:l
+-cache:dl2             ul2:1024:64:8:l
